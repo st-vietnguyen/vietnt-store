@@ -48,6 +48,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "8a7f0ce6-58a2-4098-ae2c-0d6777dde752": {
+          "type": "shopify:\/\/apps\/viet-theme\/blocks\/button_deleted\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
+          "settings": {
+            "text": "This is button delete",
+            "colour": "#ff0000"
+          }
         }
       },
       "block_order": [
@@ -58,7 +65,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "8a7f0ce6-58a2-4098-ae2c-0d6777dde752"
       ],
       "settings": {
         "enable_sticky_info": true,
