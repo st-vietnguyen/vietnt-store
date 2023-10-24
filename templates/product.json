@@ -49,10 +49,10 @@
             "share_label": "Share"
           }
         },
-        "52d8c480-2f37-405f-9978-80b0d8749ae8": {
+        "2f7f414c-2cc4-48b9-8992-f13880bca6f5": {
           "type": "shopify:\/\/apps\/viet-theme\/blocks\/button_deleted\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
           "settings": {
-            "text": "This is button delete",
+            "text": "Button test",
             "colour": "#ff0000"
           }
         }
@@ -66,7 +66,7 @@
         "buy_buttons",
         "description",
         "share",
-        "52d8c480-2f37-405f-9978-80b0d8749ae8"
+        "2f7f414c-2cc4-48b9-8992-f13880bca6f5"
       ],
       "settings": {
         "enable_sticky_info": true,
