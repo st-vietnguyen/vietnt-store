@@ -7,10 +7,10 @@
         "padding_bottom": 36
       }
     },
-    "169819795034739db8": {
+    "1698198154fe5e5667": {
       "type": "apps",
       "blocks": {
-        "e323e439-f656-4d04-939e-ba4f5bf6f203": {
+        "6805a5da-f624-4270-bb33-4dc2dd872fc4": {
           "type": "shopify:\/\/apps\/viet-theme\/blocks\/button_deleted\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
           "settings": {
             "text": "Button test",
@@ -19,7 +19,7 @@
         }
       },
       "block_order": [
-        "e323e439-f656-4d04-939e-ba4f5bf6f203"
+        "6805a5da-f624-4270-bb33-4dc2dd872fc4"
       ],
       "settings": {
         "include_margins": true
@@ -28,6 +28,6 @@
   },
   "order": [
     "main",
-    "169819795034739db8"
+    "1698198154fe5e5667"
   ]
 }
