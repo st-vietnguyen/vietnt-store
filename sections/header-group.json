@@ -43,29 +43,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "1698287438e70a5aa9": {
-      "type": "apps",
-      "blocks": {
-        "b3a551b8-acfd-4048-be6b-2ace0917a483": {
-          "type": "shopify:\/\/apps\/viet-theme\/blocks\/button_deleted\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
-          "settings": {
-            "text": "Button test",
-            "colour": "#ff0000"
-          }
-        }
-      },
-      "block_order": [
-        "b3a551b8-acfd-4048-be6b-2ace0917a483"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "1698287438e70a5aa9"
+    "header"
   ]
 }
