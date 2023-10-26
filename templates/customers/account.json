@@ -7,19 +7,19 @@
         "padding_bottom": 36
       }
     },
-    "16981982786ef838f2": {
+    "169830749341b25e85": {
       "type": "apps",
       "blocks": {
-        "1093bed0-d440-4634-a1f0-dddaa18e01ad": {
+        "20e523e8-4706-4f53-8ef8-a20cea54fea2": {
           "type": "shopify:\/\/apps\/viet-theme\/blocks\/button_deleted\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
           "settings": {
-            "text": "Button test",
+            "text": "Delete Account",
             "colour": "#ff0000"
           }
         }
       },
       "block_order": [
-        "1093bed0-d440-4634-a1f0-dddaa18e01ad"
+        "20e523e8-4706-4f53-8ef8-a20cea54fea2"
       ],
       "settings": {
         "include_margins": true
@@ -28,6 +28,6 @@
   },
   "order": [
     "main",
-    "16981982786ef838f2"
+    "169830749341b25e85"
   ]
 }
