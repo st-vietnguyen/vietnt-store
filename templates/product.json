@@ -48,6 +48,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "09288f47-1ae2-489b-a199-f24b1ebd4e4b": {
+          "type": "shopify:\/\/apps\/viet-app\/blocks\/convert_price\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
+          "settings": {
+            "product": "{{product}}",
+            "colour": "#ff0000"
+          }
         }
       },
       "block_order": [
@@ -58,7 +65,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "09288f47-1ae2-489b-a199-f24b1ebd4e4b"
       ],
       "settings": {
         "enable_sticky_info": true,
