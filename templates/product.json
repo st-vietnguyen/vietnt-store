@@ -31,6 +31,13 @@
           "settings": {
           }
         },
+        "viet_app_star_rating_DtpnDi": {
+          "type": "shopify:\/\/apps\/viet-app\/blocks\/star_rating\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
+          "settings": {
+            "product": "{{product}}",
+            "colour": "#ff0000"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -48,13 +55,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "09288f47-1ae2-489b-a199-f24b1ebd4e4b": {
-          "type": "shopify:\/\/apps\/viet-app\/blocks\/convert_price\/a43b4c8a-2d46-4dd4-beb8-049c8c986768",
-          "settings": {
-            "product": "{{product}}",
-            "colour": "#ff0000"
-          }
         }
       },
       "block_order": [
@@ -63,10 +63,10 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "viet_app_star_rating_DtpnDi",
         "buy_buttons",
         "description",
-        "share",
-        "09288f47-1ae2-489b-a199-f24b1ebd4e4b"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -100,10 +100,17 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "17053691604c3be7b2": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "17053691604c3be7b2"
   ]
 }
